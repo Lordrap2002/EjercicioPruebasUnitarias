@@ -332,18 +332,6 @@ cxxabi.h
 acxx_demangle.h
 -
 
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Admin.h
-iostream
--
-map
--
-Propietario.h
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Propietario.h
-Reventa.h
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Reventa.h
-Fundador.h
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Fundador.h
-
 C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Fundador.h
 iostream
 -
@@ -360,17 +348,9 @@ iostream
 Propiedad.h
 C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Propiedad.h
 
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Reventa.h
-iostream
--
-Propietario.h
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Propietario.h
-
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/test/AdminTest.cpp
+C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/test/PropietarioTest.cpp
 gtest/gtest.h
 C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/test/gtest/gtest.h
-../src/Model/Admin.h
-C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Admin.h
-string.h
--
+../src/Model/Fundador.h
+C:/Santi/Jave/Semestre3/POO/Ejercicios/AltosNizaPruebasCompleto/src/Model/Fundador.h
 

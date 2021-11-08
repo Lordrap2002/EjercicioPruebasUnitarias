@@ -3,7 +3,6 @@
 //
 #include "gtest/gtest.h"
 #include "../src/Model/Admin.h"
-#include <string.h>
 
 TEST(AdminTest, recaudarAdmin){
     Admin prueba;

@@ -16,5 +16,5 @@ TEST(PropietarioTest, calcularAdministracion) {
 
     //Assert section
     // Se espera que para un propietario fundador que vive en un piso 10 con un apto de 200mts el cobro de la administración sea de 70005
-    EXPECT_EQ(70005,costoAdministracion);
+    EXPECT_EQ(72500,costoAdministracion);
 }
